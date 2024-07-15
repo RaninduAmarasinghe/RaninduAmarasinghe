@@ -290,6 +290,7 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
+/*
 .skills__html {
   width: 95%;
 }
@@ -304,7 +305,7 @@ img {
 }
 .skills__img {
   border-radius: 0.5rem;
-}
+} */
 
 /* ===== CV =====*/
 .download-btn {
