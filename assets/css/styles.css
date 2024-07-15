@@ -296,11 +296,11 @@ img {
 .skills__css {
   width: 85%;
 }
-.skills__js {
-  width: 65%;
+.skills__java {
+  width: 50%;
 }
-.skills__ux {
-  width: 85%;
+.skills__js {
+  width: 30%;
 }
 .skills__img {
   border-radius: 0.5rem;
