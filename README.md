@@ -33,7 +33,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://metrics.lecoq.io/RaninduAmarasinghe?template=classic&base.activity=1&base.community=1&base.repositories=1&theme=tokyonight)
 
 🌐 Connect with Me
 
