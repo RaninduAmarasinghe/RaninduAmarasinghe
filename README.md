@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=Java%20|%20Spring%20Boot%20|%20.NET&fontSize=30&animation=fadeIn&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=Let's%20Build%20Something%20Great&fontSize=30&animation=fadeIn&section=footer" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
