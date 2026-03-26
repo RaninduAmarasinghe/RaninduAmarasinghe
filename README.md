@@ -45,3 +45,4 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
