@@ -36,5 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Software%20Engineer&fontSize=30&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=Software%20Engineer&fontSize=30&animation=fadeIn&section=footer" width="100%" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
