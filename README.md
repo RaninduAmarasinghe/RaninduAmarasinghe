@@ -10,10 +10,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 💫 About Me
-- Backend Developer — Spring Boot  
-- AI & Automation  
-- Real-world systems
+💫 About Me
+I am a Software Engineering Graduate focused on building scalable, AI-driven backend systems. I enjoy bridging the gap between robust enterprise architecture and modern local AI capabilities.
+
+💻 Backend Specialist: Deep diving into Java and Spring Boot ecosystem.
+
+🤖 AI & Automation: Exploring local LLM integration using Ollama.
+
+⚡ Current Focus: Optimizing backend performance and automated document processing.
+
+🏋️ Outside of Tech: Natural bodybuilder with a passion for discipline and consistency.
 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
