@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,react,mongodb,git" />
   <img src="https://cdn.simpleicons.org/n8n" height="48" />
+  <img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />
 </p>
 
 [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
