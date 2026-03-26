@@ -13,15 +13,10 @@
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spring.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ollama.svg" height="45" />
-</p>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,react,mongodb,git" />
+  <img src="https://cdn.simpleicons.org/n8n" height="48" />
+  <img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />
+</p> 
 
 [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
