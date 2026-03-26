@@ -32,7 +32,8 @@
 | --- | --- |
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaninduAmarasinghe&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight&hide_border=true)
 
 🌐 Connect with Me
 
