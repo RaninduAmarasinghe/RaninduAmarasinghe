@@ -37,16 +37,4 @@
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
-
-🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ranindu-amarasinghe">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:raninduamarasinghe@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
