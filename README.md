@@ -8,11 +8,11 @@
 
 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+### 🚀 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,react,n8n" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,react,mongodb,git" />
+  <img src="https://cdn.simpleicons.org/n8n" height="48" />
 </p>
 
 [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
