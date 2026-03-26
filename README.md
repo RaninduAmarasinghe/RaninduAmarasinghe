@@ -34,9 +34,5 @@
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:0d1117,100:36BCF7&text=Ranindu%20Amarasinghe&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-</p>
 
