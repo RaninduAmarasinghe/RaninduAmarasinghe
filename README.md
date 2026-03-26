@@ -24,7 +24,8 @@
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-[![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 
