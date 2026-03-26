@@ -36,7 +36,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=Thanks%20for%20visiting!&fontSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&color=gradient&text=Let's%20Connect&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
-
 
