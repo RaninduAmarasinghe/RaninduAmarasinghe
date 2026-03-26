@@ -30,9 +30,10 @@
 | ![Ranindu Amarasinghe's github stats](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight) | ![Ranidnu,s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaninduAmarasinghe&theme=tokyonight) |
 | --- | --- |
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
-
 <p align="center">
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
+
+
