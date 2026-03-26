@@ -11,9 +11,9 @@
 </p>
 
 ## 💫 About Me
-Backend Developer (Spring Boot)  
-Focused on AI & Automation  
-Building real-world systems
+- Backend Developer — Spring Boot  
+- AI & Automation  
+- Real-world systems
 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
