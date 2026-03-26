@@ -11,6 +11,7 @@
 </p>
 
 💫 About Me
+
 I am a Software Engineering Graduate focused on building scalable, AI-driven backend systems. I enjoy bridging the gap between robust enterprise architecture and modern local AI capabilities.
 
 💻 Backend Specialist: Deep diving into Java and Spring Boot ecosystem.
