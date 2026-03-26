@@ -31,8 +31,8 @@
 | --- | --- |
 
 
-[<p align="center">
+<p align="center">
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
-</p]
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
