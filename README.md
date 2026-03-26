@@ -18,11 +18,6 @@
   <img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />
 </p> 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <!-- [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph -->
 
