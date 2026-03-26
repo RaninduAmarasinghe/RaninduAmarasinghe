@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=arc&height=150&color=gradient&text=Build%20with%20Passion&fontSize=25&animation=fadeIn&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=outline&height=120&color=gradient&text=Let's%20Collaborate&fontSize=20&animation=fadeIn" width="100%" />
 </p>
