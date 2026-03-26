@@ -20,9 +20,9 @@
 
 [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 Achievements
+## 🐍 Contribution Snake
 
-![](https://github-profile-trophy.vercel.app/?username=RaninduAmarasinghe&theme=tokyonight&no-frame=true&margin-w=10)
+![Snake animation](https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake.svg)
 
 | ![Ranindu Amarasinghe's github stats](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight) | ![Ranidnu,s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaninduAmarasinghe&theme=tokyonight) |
 | --- | --- |
