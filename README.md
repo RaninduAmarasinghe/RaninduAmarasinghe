@@ -20,7 +20,6 @@
   <img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />
 </p> 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)]
 
