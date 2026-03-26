@@ -2,8 +2,9 @@
 <img align ="center" alt ="Banner" src=""> // -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ranindu%20Amarasinghe&fontSize=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Input%20text=Ranindu%20Amarasinghe&fontSize=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
