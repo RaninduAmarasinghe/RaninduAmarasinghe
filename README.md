@@ -34,6 +34,8 @@
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=Software%20Engineer&fontSize=30&animation=fadeIn&section=footer" width="100%" />
+</p>
 
 
