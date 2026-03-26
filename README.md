@@ -14,8 +14,10 @@
 
 I’m a Software Engineering graduate passionate about building backend systems that actually solve real problems. I enjoy combining strong backend fundamentals with modern AI to create smarter solutions.
 
-💻 Working mainly with Java and Spring Boot  
+💻 Working mainly with Java and Spring Boot
+
 🤖 Exploring AI, automation, and local LLMs (Ollama)  
+
 ⚡ Currently focused on performance optimization and document processing systems  
 
 🏋️ When I’m not coding, I’m into natural bodybuilding — it keeps me disciplined and consistent.
