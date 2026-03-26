@@ -22,7 +22,9 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 | ![Ranindu Amarasinghe's github stats](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight) | ![Ranidnu,s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaninduAmarasinghe&theme=tokyonight) |
 | --- | --- |
