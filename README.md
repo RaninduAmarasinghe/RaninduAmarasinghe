@@ -33,6 +33,12 @@
 | --- | --- |
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 
 🌐 Connect with Me
