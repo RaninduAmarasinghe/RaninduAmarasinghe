@@ -1,6 +1,5 @@
 <!--
 <img align ="center" alt ="Banner" src=""> // -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Ranindu%20Amarasinghe&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ranindu%20Amarasinghe&fontSize=60&animation=fadeIn" width="100%" />
@@ -27,7 +26,7 @@
 
 [![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 
 | ![Ranindu Amarasinghe's github stats](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight) | ![Ranidnu,s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaninduAmarasinghe&theme=tokyonight) |
 | --- | --- |
