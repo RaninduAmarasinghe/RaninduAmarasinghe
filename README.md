@@ -18,13 +18,15 @@
   <img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />
 </p> 
 
-[![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/RaninduAmarasinghe/RaninduAmarasinghe/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+[![Ranindu Amarasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaninduAmarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 | ![Ranindu Amarasinghe's github stats](https://github-readme-stats.vercel.app/api?username=RaninduAmarasinghe&show_icons=true&theme=tokyonight) | ![Ranidnu,s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaninduAmarasinghe&theme=tokyonight) |
 | --- | --- |
