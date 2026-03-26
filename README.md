@@ -1,5 +1,6 @@
 <!--
 <img align ="center" alt ="Banner" src=""> // -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Ranindu%20Amarasinghe&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ranindu%20Amarasinghe&fontSize=60&animation=fadeIn" width="100%" />
@@ -33,7 +34,6 @@
 
 
 
-![](https://metrics.lecoq.io/RaninduAmarasinghe?template=classic&base.activity=1&base.community=1&base.repositories=1&theme=tokyonight)
 
 🌐 Connect with Me
 
