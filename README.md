@@ -25,7 +25,7 @@ I’m a Software Engineering graduate passionate about building backend systems 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,react,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,nextjs,react,mongodb,git" />
   <img src="https://cdn.simpleicons.org/n8n" height="48" />
   <img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />
 </p> 
