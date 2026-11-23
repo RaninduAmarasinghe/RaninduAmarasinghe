@@ -49,3 +49,5 @@ I’m a Software Engineering graduate passionate about building backend systems 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+   <img src="https://hub.xerj.org/contributors/RaninduAmarasinghe/badge.svg" alt="XERJ Corpus Hub Contributor" />
+  </a>
